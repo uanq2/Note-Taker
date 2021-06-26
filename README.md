@@ -15,7 +15,9 @@ Note Taker that can be used to write and save notes. This application will use a
 This is the link to the working application https://un-note-taker.herokuapp.com/
     
 ## Usage
-'/Users/urielnunez/Desktop/Screen Shot 2021-06-26 at 1.47.20 PM.png''/Users/urielnunez/Desktop/Screen Shot 2021-06-26 at 1.47.45 PM.png'
+<img width="1640" alt="Screen Shot 2021-06-26 at 1 47 45 PM" src="https://user-images.githubusercontent.com/68913478/123523296-5ed75a00-d688-11eb-9e38-08362f3ba37a.png">
+<img width="1643" alt="Screen Shot 2021-06-26 at 1 47 20 PM" src="https://user-images.githubusercontent.com/68913478/123523301-626ae100-d688-11eb-98d2-cabbb613b363.png">
+
 
 ## License
 MIT
