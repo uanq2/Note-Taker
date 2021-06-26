@@ -16,8 +16,7 @@ This is the link to the working application https://un-note-taker.herokuapp.com/
     
 ## Usage
 <img width="1640" alt="Screen Shot 2021-06-26 at 1 47 45 PM" src="https://user-images.githubusercontent.com/68913478/123523296-5ed75a00-d688-11eb-9e38-08362f3ba37a.png">
-<img width="1643" alt="Screen Shot 2021-06-26 at 1 47 20 PM" src="https://user-images.githubusercontent.com/68913478/123523301-626ae100-d688-11eb-98d2-cabbb613b363.png">
-
+<img width="1173" alt="Screen Shot 2021-06-26 at 2 12 35 PM" src="https://user-images.githubusercontent.com/68913478/123523347-a2ca5f00-d688-11eb-801f-9031471a4f5c.png">
 
 ## License
 MIT
